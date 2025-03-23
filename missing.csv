@@ -1,0 +1,22 @@
+ID,COUNTRY,COLOR,SKILL,SKILL_POINTS,UTILIZATION,IS_VALID
+1,France,Signal violet,marksmanship,14.0,0.1924,1
+1,France,Signal violet,marksmanship,14.0,0.1924,1
+2,Solomon Islands,Pearl violet,,4.0,,1
+3,Germany,,calligraphy,12.0,0.88646,0
+4,Brazil,Rose quartz,archery,9.0,0.3452,1
+5,Canada,Denim blue,fencing,15.0,0.6734,1
+6,India,Indigo,cooking,,0.4572,1
+7,Japan,Red poppy,painting,8.0,0.2345,1
+8,Spain,Lavender,pottery,6.0,,1
+9,Italy,Olive green,knitting,10.0,0.5566,0
+10,Argentina,Azure blue,marksmanship,14.0,0.1924,1
+11,Portugal,Fuchsia pink,dancing,7.0,0.7294,0
+12,Australia,Turquoise,sculpting,11.0,0.4231,1
+13,USA,Golden yellow,singing,,0.6742,1
+14,South Africa,Coral red,archery,12.0,0.553,0
+15,Russia,Midnight blue,calligraphy,5.0,,1
+16,China,Lemon yellow,fencing,,0.4212,1
+17,Mexico,Emerald green,pottery,13.0,0.7845,1
+18,Egypt,Saffron,knitting,,0.2354,0
+19,UK,Ocean blue,painting,9.0,0.4573,1
+20,Peru,Ruby red,cooking,10.0,,1

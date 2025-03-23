@@ -1,0 +1,2 @@
+import college_module
+college_module.ask_college_name()
